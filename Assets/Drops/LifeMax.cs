@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class LifeMax : MonoBehaviour
+public class LifeMax : Item
 
 {
     private void OnTriggerEnter(Collider other)
